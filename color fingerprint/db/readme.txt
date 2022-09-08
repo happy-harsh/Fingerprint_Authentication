@@ -1,0 +1,1 @@
+Keep the sekeleton form of the input image by running the register.py file
